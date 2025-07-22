@@ -2,8 +2,7 @@
 
 An AI-powered web application for the detection and segmentation of brain tumors from MRI scans, built with a U-Net architecture in TensorFlow and a modern Gradio interface.
 
-![App Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_URL.png) 
-*Note: Please take a screenshot of your beautiful final app, upload it to a site like [Imgur](https://imgur.com/upload), and replace the link above.*
+<img width="1916" height="912" alt="Screenshot 2025-07-22 205754" src="https://github.com/user-attachments/assets/4fe61bf0-e1fb-4cc9-9de5-58c476be2590" />
 
 ---
 
