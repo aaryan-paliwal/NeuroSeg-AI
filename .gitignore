@@ -1,0 +1,21 @@
+# Python virtual environments
+app_env/
+venv/
+__pycache__/
+
+# Large model file
+*.keras
+*.hdf5
+
+# Generated files
+report.txt
+
+# Dataset and example images
+images/
+masks/
+examples/
+*.zip
+
+# OS / Editor specific files
+.DS_Store
+.vscode/
