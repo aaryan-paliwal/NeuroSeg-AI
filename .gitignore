@@ -1,21 +1,25 @@
-# Python virtual environments
+# Python Virtual Environment
+# This folder contains all the installed packages and is specific to your machine.
 app_env/
-venv/
-__pycache__/
 
-# Large model file
+# Gradio Cache
+# This folder is automatically created by Gradio to store temporary files.
+.gradio/
+
+# Large Model Files
+# These are typically too large for GitHub's limits.
 *.keras
 *.hdf5
+*.h5
 
-# Generated files
+# Python Cache
+# These folders are automatically created by Python.
+__pycache__/
+
+# Generated Files
+# Any files created when the app runs, like reports.
 report.txt
 
-# Dataset and example images
-images/
-masks/
-examples/
-*.zip
-
-# OS / Editor specific files
-.DS_Store
+# Editor-specific files
+# To ignore settings files from VS Code.
 .vscode/
