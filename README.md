@@ -52,13 +52,12 @@ Follow these steps to get the application running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/aaryan-paliwal/NeuroSeg-AI.git](https://github.com/aaryan-paliwal/NeuroSeg-AI.git)
+    git clone https://github.com/aaryan-paliwal/NeuroSeg-AI.git
     cd NeuroSeg-AI
     ```
 
 2.  **Download the Trained Model:**
-    The trained model (`best_model.keras`) is too large for this repository. Please download it from [LINK_TO_YOUR_MODEL] and place it in the main project directory.
-    *(**Note**: You can upload your `.keras` file to a service like Google Drive or Dropbox and share the link here.)*
+    The trained model (`best_model.keras`) is too large for this repository. Please download it from [best_model.keras](https://drive.google.com/drive/folders/1OSbjsM4S-TVhHs2ku9J0N-NJRfnSXEuI?usp=drive_link) and place it in the main project directory.
 
 3.  **Set up the Python environment:**
     ```bash
@@ -66,7 +65,7 @@ Follow these steps to get the application running on your local machine.
     python -m venv app_env
 
     # Activate it (Windows)
-    .\app_env\Scripts\activate
+    .\app_env\Scripts\Activate.ps1
 
     # Install the required packages
     pip install -r requirements.txt
@@ -80,7 +79,7 @@ Follow these steps to get the application running on your local machine.
 
 ---
 
-## 📧 Contact
-
-Aaryan Paliwal - aapaliwal.work@gmail.com
-Project Link: [https://github.com/aaryan-paliwal/NeuroSeg-AI](https://github.com/aaryan-paliwal/NeuroSeg-AI)
+## 📧 Contact & Support
+For questions or to support:
+- Aaryan Paliwal - aapaliwal.work@gmail.com
+- Project Link: [https://github.com/aaryan-paliwal/NeuroSeg-AI](https://github.com/aaryan-paliwal/NeuroSeg-AI)
