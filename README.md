@@ -81,5 +81,5 @@ Follow these steps to get the application running on your local machine.
 
 ## 📧 Contact & Support
 For questions or to support:
-- Aaryan Paliwal - aapaliwal.work@gmail.com
-- Project Link: [https://github.com/aaryan-paliwal/NeuroSeg-AI](https://github.com/aaryan-paliwal/NeuroSeg-AI)
+- Author: Aaryan Paliwal - aapaliwal.work@gmail.com
+- LinkedIn Profile: [https://www.linkedin.com/in/aaryan-paliwal/]
