@@ -81,5 +81,6 @@ Follow these steps to get the application running on your local machine.
 
 ## 📧 Contact & Support
 For questions or to support:
-- Author: Aaryan Paliwal - aapaliwal.work@gmail.com
+- Author: Aaryan Paliwal
+- Email: aapaliwal.work@gmail.com
 - LinkedIn Profile: https://www.linkedin.com/in/aaryan-paliwal/
