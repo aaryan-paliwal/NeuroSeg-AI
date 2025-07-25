@@ -2,9 +2,11 @@
 
 An AI-powered web application for the detection and segmentation of brain tumors from MRI scans, built with a U-Net architecture in TensorFlow and a modern Gradio interface.
 
-**Light Theme:
+**Light Theme:**
 <img width="1916" height="912" alt="Screenshot 2025-07-22 205754" src="https://github.com/user-attachments/assets/4fe61bf0-e1fb-4cc9-9de5-58c476be2590" />
-**Dark Theme:
+
+
+**Dark Theme:**
 <img width="1911" height="914" alt="Screenshot 2025-07-22 205730" src="https://github.com/user-attachments/assets/a133a177-d8f5-4c7b-8a23-5ff9495ab551" />
 
 ---
@@ -50,13 +52,12 @@ Follow these steps to get the application running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/aaryan-paliwal/NeuroSeg-AI.git](https://github.com/aaryan-paliwal/NeuroSeg-AI.git)
+    git clone https://github.com/aaryan-paliwal/NeuroSeg-AI.git
     cd NeuroSeg-AI
     ```
 
 2.  **Download the Trained Model:**
-    The trained model (`best_model.keras`) is too large for this repository. Please download it from [LINK_TO_YOUR_MODEL] and place it in the main project directory.
-    *(**Note**: You can upload your `.keras` file to a service like Google Drive or Dropbox and share the link here.)*
+    The trained model (`best_model.keras`) is too large for this repository. Please download it from [best_model.keras](https://drive.google.com/drive/folders/1OSbjsM4S-TVhHs2ku9J0N-NJRfnSXEuI?usp=drive_link) and place it in the main project directory.
 
 3.  **Set up the Python environment:**
     ```bash
@@ -64,7 +65,7 @@ Follow these steps to get the application running on your local machine.
     python -m venv app_env
 
     # Activate it (Windows)
-    .\app_env\Scripts\activate
+    .\app_env\Scripts\Activate.ps1
 
     # Install the required packages
     pip install -r requirements.txt
@@ -78,7 +79,9 @@ Follow these steps to get the application running on your local machine.
 
 ---
 
-## 📧 Contact
+## 📧 Contact & Support
+For questions or to support:
+- Author: Aaryan Paliwal
+- Email: aapaliwal.work@gmail.com
+- LinkedIn Profile: https://www.linkedin.com/in/aaryan-paliwal/
 
-Aaryan Paliwal - aapaliwal.work@gmail.com
-Project Link: [https://github.com/aaryan-paliwal/NeuroSeg-AI](https://github.com/aaryan-paliwal/NeuroSeg-AI)
