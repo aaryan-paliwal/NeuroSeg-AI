@@ -131,7 +131,7 @@ def clear_interface():
 
 # --- 6. Gradio UI Definition ---
 # gr.Blocks provides full control over the layout of the web app.
-with gr.Blocks(css=custom_css, theme=gr.themes.Soft(), title="NeuroSeg AI", favicon_path="neuroseg_favicon.png") as demo:
+with gr.Blocks(css=custom_css, theme=gr.themes.Soft(), title="NeuroSeg AI") as demo:
     # Header section with a title and subtitle.
     gr.Markdown("<h1 id='main-title'>NeuroSeg AI</h1>", elem_id="main-title")
     gr.Markdown("<p id='subtitle'>AI-Powered Brain Tumor Detection & Segmentation</p>", elem_id="subtitle")
