@@ -11,6 +11,12 @@ An AI-powered web application for the detection and segmentation of brain tumors
 
 ---
 
+## 🌐 Deployment
+
+You can try the live demo here: [NeuroSeg AI Web App](https://paliwal21-neuroseg-ai.hf.space/)
+
+---
+
 ## 🚀 About The Project
 
 NeuroSeg AI is a deep learning tool designed to provide a fast, accurate, and user-friendly way to analyze medical imaging. It leverages a U-Net model trained on over 3,900 MRI scans to identify and outline tumor regions with high precision. This project showcases a full-cycle machine learning workflow, from training a complex model to deploying it in an interactive and visually appealing web application.

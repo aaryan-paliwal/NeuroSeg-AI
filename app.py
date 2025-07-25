@@ -33,11 +33,11 @@ body, .gradio-container {
 }
 
 #main-title {
-    text-align: center; color: #0a2540; font-size: 2.7em; font-weight: 700;
+    text-align: center; color: #000000; font-size: 2.7em; font-weight: 700;
     letter-spacing: 1px; margin-bottom: 0.2em; text-shadow: 0 2px 8px rgba(179, 209, 247, 0.5);
 }
 #subtitle {
-    text-align: center; color: #2563eb; font-size: 1.2em;
+    text-align: center; color: #000000; font-size: 1.2em;
     margin-bottom: 28px; font-weight: 500;
 }
 
