@@ -183,6 +183,10 @@ with gr.Blocks(css=custom_css, theme=gr.themes.Soft()) as demo:
 # The if __name__ == "__main__": block ensures this code only runs when the script is executed directly.
 if __name__ == "__main__":
     if model: # Only launch if the model was loaded successfully.
-        demo.launch(share=True)
+        # Get the port from the environment variable Render provides.
+        port = int(os.environ.get('PORT', 7860))
+
+        # Launch the app to be accessible on Render's network.
+        demo.launch(server_name="0.0.0.0", server_port=port)
     else:
         print("\nApplication launch failed because the model could not be loaded.")
